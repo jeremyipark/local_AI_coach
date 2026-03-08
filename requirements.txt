@@ -1,0 +1,15 @@
+ultralytics
+rfdetr
+torch
+torchvision
+Pillow
+opencv-python
+numpy
+pandas
+matplotlib
+polars
+roboflow
+pyyaml
+tqdm
+python-dotenv
+seaborn
